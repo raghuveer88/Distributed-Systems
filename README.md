@@ -1,6 +1,6 @@
 # Distributed-Systems
 
-### **Problem Statements for each lab are given below**
+### **Problem Statement for each lab are given below**
 
 ## LAB - 2
 
